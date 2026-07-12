@@ -53,6 +53,13 @@ Right now, I am looking to connect and collaborate on innovative open-source AI 
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=yuvraj-sw&theme=shadow_blue&text_color=a5d6ff&title_color=38bdf8&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="140" />
 </p>
 
+### 🏆 Personal Achievements
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=yuvraj-sw&theme=shadowblue&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  </a>
+</p>
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=yuvraj-sw&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
