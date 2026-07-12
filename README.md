@@ -1,6 +1,8 @@
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&secondaryColor=1f2937&height=180&section=header&text=Welcome%20to%20my%20Workspace&fontSize=40&textColor=ffffff&animation=twinkling" width="100%" />
+  <img src="https://i.ibb.co/Xz95b6w/yuvraj-sw-banner-glossy-metallic.png" alt="Welcome to my Workspace | Yuvraj - SW" width="100%" height="200" style="object-fit: cover;" />
 </p>
+
 
 # 💫 About Me
 
