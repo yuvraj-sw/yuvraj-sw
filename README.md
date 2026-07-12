@@ -54,16 +54,12 @@ Right now, I am looking to connect and collaborate on innovative open-source AI 
 </p>
 
 ## 🎯 Current Focus
-<table>
-  <tr>
-    <td><b>Learning/Experimenting:</b></td>
-    <td><code>Object-Oriented Design</code>, <code>3D Interactive Systems</code></td>
-  </tr>
-  <tr>
-    <td><b>Current Project:</b></td>
-    <td>Refining real-time perception HUD and automation logic</td>
-  </tr>
-</table>
+
+> **Learning & Experimenting:** `Object-Oriented Design` • `3D Interactive Systems`
+> 
+> **Active Development:** Refining real-time perception HUD and automation logic
+
+---
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=yuvraj-sw&limit=5&theme=dark&combine_all_yearly_contributions=true)
