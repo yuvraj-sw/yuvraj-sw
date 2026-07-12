@@ -41,15 +41,16 @@ Right now, I am looking to connect and collaborate on innovative open-source AI 
 
 ---
 
+
 # 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=yuvraj-sw&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false" height="150" />
+  <img src="https://github-readme-stats.shion.dev/api?username=yuvraj-sw&theme=shadow_blue&text_color=a5d6ff&title_color=38bdf8&hide_border=false&include_all_commits=false&count_private=false" height="150" />
   <img src="https://streak-stats.demolab.com/?user=yuvraj-sw&theme=shadow_blue&hide_border=false" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=yuvraj-sw&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="140" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=yuvraj-sw&theme=shadow_blue&text_color=a5d6ff&title_color=38bdf8&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="140" />
 </p>
 
 ### 🔝 Top Contributed Repo
