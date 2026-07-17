@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f0f0f0,b5b5b5,717171&height=180&section=header&text=Welcome%20to%20my%20Workspace&fontSize=40&textColor=121826&fontAlignY=45" width="100%" />
-</p>
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f0f0f0,b5b5b5,717171&height=180&section=header&text=Welcome%20to%20my%20Workspace&fontSize=40&textColor=121826&fontAlignY=45" width="100%" />
@@ -10,6 +6,7 @@
 <p align="center">
   <img src="https://komarev.com/ghvc/?username=yuvraj-sw&color=blue&style=flat-square" alt="Views" />
 </p>
+
 
 # 💫 About Me
 
