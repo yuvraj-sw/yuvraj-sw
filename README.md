@@ -44,17 +44,7 @@ Right now, I am looking to connect and collaborate on innovative open-source AI 
 # 📜 Certifications
 
 <details>
-  <summary>🎓 Click to view credentials & certificates</summary>
-  <br/>
-
-  ### 🔴 Red Hat Campus Connect
-  * **Program:** Discover. Learn. Certify. Succeed.[cite: 1]
-  * **Organizer:** Red Hat Academy & Parul University[cite: 1]
-
-  <p align="left">
-    <img src="https://github.com/user-attachments/assets/65d4a99b-ca1e-4b1e-a9ca-0f1aea4cd9b6" width="70%" alt="Red Hat Certificate" />
-  </p>
-
+  <summary><h3>🎓 Click to view credentials & certificates</h3></summary>
   <br/>
 
   ### 🤖 Prompt Engineering for Generative AI
@@ -65,8 +55,19 @@ Right now, I am looking to connect and collaborate on innovative open-source AI 
   <p align="left">
     <img src="https://github.com/user-attachments/assets/34404d85-97c7-48a4-aa53-058d91649cc3" width="70%" alt="Prompt Engineering Certificate" />
   </p>
+
+  <br/>
+
+  ### 🔴 Red Hat Campus Connect
+  * **Program:** Discover. Learn. Certify. Succeed.[cite: 1]
+  * **Organizer:** Red Hat Academy & Parul University[cite: 1]
+
+  <p align="left">
+    <img src="https://github.com/user-attachments/assets/65d4a99b-ca1e-4b1e-a9ca-0f1aea4cd9b6" width="70%" alt="Red Hat Certificate" />
+  </p>
 </details>
 
+---
 
 # 📊 GitHub Insights
 
