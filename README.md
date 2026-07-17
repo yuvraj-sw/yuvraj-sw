@@ -30,6 +30,8 @@ Right now, I am looking to connect and collaborate on innovative open-source AI 
 ### 🎨 Graphics & Engines
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 
+### 📜 Credentials & Certifications
+[![Prompt Eng.](https://img.shields.io/badge/Prompt%20Engineering-Generative%20AI-blue?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/user-attachments/assets/34404d85-97c7-48a4-aa53-058d91649cc3) [![Red Hat](https://img.shields.io/badge/Red%20Hat-Campus%20Connect-cc0000?style=for-the-badge&logo=redhat&logoColor=white)](https://github.com/user-attachments/assets/65d4a99b-ca1e-4b1e-a9ca-0f1aea4cd9b6)
 ---
 
 # 📂 Featured Repositories
