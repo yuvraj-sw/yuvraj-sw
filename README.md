@@ -83,12 +83,14 @@ Right now, I am looking to connect and collaborate on innovative open-source AI 
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=yuvraj-sw&theme=shadow_blue&text_color=a5d6ff&title_color=38bdf8&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="140" />
 </p>
 
+
 ### 🧮 Coding Profiles
 <p align="center">
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
-    <img src="https://leetcode-stats.vercel.app/api?username=YOUR_LEETCODE_USERNAME&theme=Dark" alt="LeetCode Stats" height="150" />
+  <a href="https://leetcode.com/yuvraj-sw">
+    <img src="https://leetcode-badge.vercel.app/api/users/yuvraj-sw?theme=dark" alt="LeetCode Stats" height="150" />
   </a>
 </p>
+
 
 
 ## 🎯 Current Focus
