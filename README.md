@@ -44,7 +44,7 @@ Right now, I am looking to connect and collaborate on innovative open-source AI 
 # 📜 Certifications
 
 <details>
-  <summary><h3>🎓 Click to view credentials & certificates</h3></summary>
+  <summary><b><font size="+1.5">🎓 Click to view credentials & certificates</font></b></summary>
   <br/>
 
   ### 🤖 Prompt Engineering for Generative AI
