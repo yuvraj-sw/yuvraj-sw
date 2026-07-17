@@ -84,12 +84,14 @@ Right now, I am looking to connect and collaborate on innovative open-source AI 
 </p>
 
 
+
 ### 🧮 Coding Profiles
 <p align="center">
   <a href="https://leetcode.com/yuvraj-sw">
-    <img src="https://leetcode-badge.vercel.app/api/users/yuvraj-sw?theme=dark" alt="LeetCode Stats" height="150" />
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
   </a>
 </p>
+
 
 
 
