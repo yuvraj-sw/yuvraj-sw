@@ -50,11 +50,9 @@ Right now, I am looking to connect and collaborate on innovative open-source AI 
   ### 🔴 Red Hat Campus Connect
   * **Program:** Discover. Learn. Certify. Succeed.[cite: 1]
   * **Organizer:** Red Hat Academy & Parul University[cite: 1]
-  * 📄 **[Download PDF Version](./certificates/RedHat_Campus_Connect.pdf)**
 
   <p align="left">
-    <img src="<img width="1024" height="576" alt="RedHat_Campus_Connect" src="https://github.com/user-attachments/assets/65d4a99b-ca1e-4b1e-a9ca-0f1aea4cd9b6" />
-" width="70%" alt="Red Hat Certificate" />
+    <img src="https://github.com/user-attachments/assets/65d4a99b-ca1e-4b1e-a9ca-0f1aea4cd9b6" width="70%" alt="Red Hat Certificate" />
   </p>
 
   <br/>
@@ -63,15 +61,11 @@ Right now, I am looking to connect and collaborate on innovative open-source AI 
   * **Course:** Value Added Course (VAC)[cite: 2]
   * **Date Completed:** April 08, 2026[cite: 2]
   * **Organizer:** Faculty of Engineering & Technology, Parul University[cite: 2]
-  * 📄 **[Download PDF Version](./certificates/Prompt_Engineering_VAC.pdf)**
 
   <p align="left">
-    <img src="<img width="1024" height="576" alt="Prompt_Engineering_VAC" src="https://github.com/user-attachments/assets/34404d85-97c7-48a4-aa53-058d91649cc3" />
-" width="70%" alt="Prompt Engineering Certificate" />
+    <img src="https://github.com/user-attachments/assets/34404d85-97c7-48a4-aa53-058d91649cc3" width="70%" alt="Prompt Engineering Certificate" />
   </p>
 </details>
-
----
 
 
 # 📊 GitHub Insights
