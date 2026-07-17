@@ -4,8 +4,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghvc/?username=yuvraj-sw&color=blue&style=flat-square" alt="Views" />
+  <img src="https://profile-counter.glitch.me/yuvraj-sw/count.svg" alt="Profile Views" />
 </p>
+
 
 
 # 💫 About Me
