@@ -53,7 +53,8 @@ Right now, I am looking to connect and collaborate on innovative open-source AI 
   * 📄 **[Download PDF Version](./certificates/RedHat_Campus_Connect.pdf)**
 
   <p align="left">
-    <img src="./certificates/RedHat_Campus_Connect.png" width="70%" alt="Red Hat Certificate" />
+    <img src="<img width="1024" height="576" alt="RedHat_Campus_Connect" src="https://github.com/user-attachments/assets/65d4a99b-ca1e-4b1e-a9ca-0f1aea4cd9b6" />
+" width="70%" alt="Red Hat Certificate" />
   </p>
 
   <br/>
@@ -65,7 +66,8 @@ Right now, I am looking to connect and collaborate on innovative open-source AI 
   * 📄 **[Download PDF Version](./certificates/Prompt_Engineering_VAC.pdf)**
 
   <p align="left">
-    <img src="./certificates/Prompt_Engineering_VAC.png" width="70%" alt="Prompt Engineering Certificate" />
+    <img src="<img width="1024" height="576" alt="Prompt_Engineering_VAC" src="https://github.com/user-attachments/assets/34404d85-97c7-48a4-aa53-058d91649cc3" />
+" width="70%" alt="Prompt Engineering Certificate" />
   </p>
 </details>
 
