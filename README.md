@@ -4,8 +4,9 @@
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/yuvraj-sw/count.svg" alt="Profile Views" />
+  <img src="https://hit.yhype.me/github/profile/yuvraj-sw" alt="Profile Views" />
 </p>
+
 
 
 
